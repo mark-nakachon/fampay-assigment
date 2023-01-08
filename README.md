@@ -31,9 +31,8 @@ It's mentioned [here](https://developers.google.com/youtube/v3/getting-started),
   directly to run the API
 - ```
    curl --location --request GET 'http://localhost:5000/search?page=1&perPage=3&query=pubg'
-   
    ```
-   Sample Response
+  Sample Response
    ```
    [
     {
@@ -42,8 +41,8 @@ It's mentioned [here](https://developers.google.com/youtube/v3/getting-started),
         "title": "pubg mobile lite 0.24.0 zero recoil config high damage #short #shorts #viral #youtubeshorts #video",
         "description": "pubg mobile lite 0.24.0 zero recoil config high damage #short #shorts #viral #youtubeshorts #video pubg lite 0.24.0 zero recoil ...",
         "thumbnail_url": "https://i.ytimg.com/vi/HaN1v2tHUx8/hqdefault.jpg"
-    }
-]
+     }
+    ]
   ```
 - API supports three optional query params
   -  page - The page to fetch results from
