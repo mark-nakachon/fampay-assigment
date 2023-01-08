@@ -32,6 +32,9 @@ It's mentioned [here](https://developers.google.com/youtube/v3/getting-started),
 - ```
    curl --location --request GET 'http://localhost:5000/search?page=1&perPage=3&query=pubg'
    
+   ```
+   Sample Response
+   ```
    [
     {
         "video_id": "HaN1v2tHUx8",
