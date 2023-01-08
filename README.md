@@ -3,7 +3,7 @@
 ## Setup - Detailed Instructions Below
 
 1. Git clone the repo ```git clone [url]```
-2. RUN ```cd api-server```
+2. RUN ```cd fampay-assignment```
 3. RUN ```npm install```
 4. Modify .env file
    ```
